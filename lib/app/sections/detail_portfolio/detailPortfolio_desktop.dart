@@ -18,8 +18,8 @@ class DetailPortfolio_Desktop extends StatelessWidget {
           : Container(
               decoration: BoxDecoration(
                   image: DecorationImage(
-                      image: AssetImage(fullProjectUtils[index].banners),
-                      fit: BoxFit.cover)),
+                image: AssetImage(fullProjectUtils[index].banners),
+              )),
             ),
     ));
   }
