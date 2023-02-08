@@ -59,7 +59,7 @@ class HomeDesktop extends StatelessWidget {
                   Row(
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
-                      const Text("A ",
+                      const Text("A",
                           style: TextStyle(
                             fontSize: 32,
                             fontWeight: FontWeight.w400,
